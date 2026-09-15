@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+.card {
+    border-radius: 10px;
+}
+
+
+.btn-primary {
+    background-color: #5b4bdb;
+    border-color: #5b4bdb;
+}
+
+
+.btn-primary:hover {
+    background-color: #4636c7;
+}
+
+
+.table th {
+    color: #333;
+}
